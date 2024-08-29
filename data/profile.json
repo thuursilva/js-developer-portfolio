@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Arthur Fernando",
+  "photo": "https://avatars.githubusercontent.com/u/55673628?v=4",
+  "job": "Analista JR Cartos SCD",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 98515-8368",
+  "email": "thurfsilva@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -12,29 +12,20 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Aprendizagem",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +33,41 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Avançado)",
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Sistema de estacionamento com Typescript",
+      "url": "https://github.com/thuursilva/Parking-lot",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Sistema de lista diária com Javascript",
+      "url": "https://github.com/thuursilva/toDoList",
+      "github": true
+    },
+    {
+      "name": "Sistema de mochila de viagem com Javascript",
+      "url": "https://github.com/thuursilva/Mochila-de-viagem",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista de Suporte JR / Cartos SCD",
+      "period": "May 2024 - Current",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed est pharetra, ornare turpis et, fringilla lacus. Nulla leo dui, pharetra eu interdum in, sodales id sapien. Ut vehicula molestie orci vitae hendrerit. Nulla blandit pulvinar purus vel sodales. Nam sed nulla congue, congue massa ac, hendrerit odio. Proin ac varius lorem, sed consequat justo. Ut pellentesque, sem quis interdum pharetra, libero erat porttitor neque, et fermentum lorem dui id ligula."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de Suporte JR / 55PBX",
+      "period": "January 2022 - April 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed est pharetra, ornare turpis et, fringilla lacus. Nulla leo dui, pharetra eu interdum in, sodales id sapien. Ut vehicula molestie orci vitae hendrerit. Nulla blandit pulvinar purus vel sodales. Nam sed nulla congue, congue massa ac, hendrerit odio. Proin ac varius lorem, sed consequat justo. Ut pellentesque, sem quis interdum pharetra, libero erat porttitor neque, et fermentum lorem dui id ligula."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estagiário de Suporte / 55PBX",
+      "period": "September 2021 - January 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed est pharetra, ornare turpis et, fringilla lacus. Nulla leo dui, pharetra eu interdum in, sodales id sapien. Ut vehicula molestie orci vitae hendrerit. Nulla blandit pulvinar purus vel sodales. Nam sed nulla congue, congue massa ac, hendrerit odio. Proin ac varius lorem, sed consequat justo. Ut pellentesque, sem quis interdum pharetra, libero erat porttitor neque, et fermentum lorem dui id ligula."
     }
   ]
 }
